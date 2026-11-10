@@ -2,6 +2,7 @@
 name: Build Pocket Edit APK
 
 on:
+  push:
   workflow_dispatch:
 
 jobs:
